@@ -1,4 +1,4 @@
-<h2 align="center">Henloooo ^____^<br><br>I’m Saiseikyuu, a Software Engineer who loves building useful things that make life a little brighter 🌱✨</h2>
+<h2 align="center">Henloooo ^____^<br><br>I’m Saiseikyuu, a Software Engineer who loves building coof stuuf 🌱✨</h2>
 
 ###
 
